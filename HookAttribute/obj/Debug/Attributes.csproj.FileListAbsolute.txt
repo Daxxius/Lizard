@@ -1,0 +1,5 @@
+C:\Users\Empio\source\repos\LizardOfWegend\HookAttribute\bin\Debug\HookAttribute.dll
+C:\Users\Empio\source\repos\LizardOfWegend\HookAttribute\bin\Debug\HookAttribute.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\HookAttribute\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Empio\source\repos\LizardOfWegend\HookAttribute\obj\Debug\HookAttribute.dll
+C:\Users\Empio\source\repos\LizardOfWegend\HookAttribute\obj\Debug\HookAttribute.pdb

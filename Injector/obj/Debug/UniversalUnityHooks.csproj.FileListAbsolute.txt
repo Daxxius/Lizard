@@ -1,0 +1,15 @@
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\obj\Debug\UniversalUnityHooks.csprojAssemblyReference.cache
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\obj\Debug\UniversalUnityHooks.csproj.CoreCompileInputs.cache
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\obj\Debug\UniversalUnityHooks.exe
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\obj\Debug\UniversalUnityHooks.pdb
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\UniversalUnityHooks.exe.config
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\UniversalUnityHooks.exe
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\UniversalUnityHooks.pdb
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\HookAttribute.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\Mono.Cecil.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\Mono.Cecil.Inject.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\bin\Debug\HookAttribute.pdb
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\UniversalUnityHooks\obj\Debug\UniversalUnityHooks.csproj.CopyComplete

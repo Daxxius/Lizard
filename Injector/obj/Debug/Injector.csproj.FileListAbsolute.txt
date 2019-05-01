@@ -1,0 +1,26 @@
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\UniversalUnityHooks.exe.config
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\UniversalUnityHooks.exe
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\UniversalUnityHooks.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\HookAttribute.dll
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\Mono.Cecil.dll
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\Mono.Cecil.Inject.dll
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\bin\Debug\HookAttribute.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\obj\Debug\Injector.csproj.CopyComplete
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard.exe.config
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard.exe
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\obj\Debug\Lizard.exe
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\obj\Debug\Lizard.pdb
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Lizard.exe.config
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Lizard.exe
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Lizard.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\UniversalUnityHooks\obj\Debug\Injector.csprojAssemblyReference.cache
+C:\Users\Empio\source\repos\LizardOfWegend\Injector\obj\Debug\Injector.csprojAssemblyReference.cache
+C:\Users\Empio\source\repos\LizardOfWegend\Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\Empio\source\repos\LizardOfWegend\Injector\obj\Debug\Injector.csproj.CopyComplete
+C:\Users\Empio\source\repos\LizardOfWegend\Injector\obj\Debug\Lizard.exe
+C:\Users\Empio\source\repos\LizardOfWegend\Injector\obj\Debug\Lizard.pdb

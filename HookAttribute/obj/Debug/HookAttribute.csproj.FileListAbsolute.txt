@@ -1,0 +1,6 @@
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\HookAttribute\bin\Debug\HookAttribute.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\HookAttribute\bin\Debug\HookAttribute.pdb
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\HookAttribute\obj\Debug\HookAttribute.csprojAssemblyReference.cache
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\HookAttribute\obj\Debug\HookAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\HookAttribute\obj\Debug\HookAttribute.dll
+C:\Users\Empio\source\repos\UniversalUnityHooks-master\HookAttribute\obj\Debug\HookAttribute.pdb

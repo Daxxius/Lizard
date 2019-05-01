@@ -1,0 +1,18 @@
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\obj\Debug\Lizard.csproj.CoreCompileInputs.cache
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\bin\Debug\Lizard.dll
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\bin\Debug\Lizard.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\obj\Debug\Lizard.dll
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\obj\Debug\Lizard.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\obj\Debug\Lizard.csprojAssemblyReference.cache
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard.dll
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard.pdb
+C:\Users\Empio\source\repos\LizardOfWegend\Lizard\obj\Debug\Lizard.csproj.CopyComplete
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Lizard.dll
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Lizard.pdb
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Items\ExampleItem.cs
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Projectiles\ExampleProjectile.cs
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Skills\ExampleSkill.cs
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Usings.cs
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Items\ExampleItem.png
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Projectiles\ExampleProjectile.png
+E:\Program Files\Steam\steamapps\common\Wizard of Legend\Lizard\Mods\ExampleMod\Skills\ExampleSkill.png
